@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+}
+ul li {
+    border: outset;
+    display: inline-block;
+}
+
+ul {
+    border: 5px double;
+    margin: auto;
+    width:25%;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+#pic1 {
+
+}
+
+#pic2 {
+    margin: auto;
+}
+
+#pic3 {
+    margin-left: 50% ;
+}
+
+p {
+    text-align: center;
+    border: groove;
+    margin: auto;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: inline-block;
+    width: 50%;
+}
