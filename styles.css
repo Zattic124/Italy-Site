@@ -23,17 +23,6 @@ img {
     margin: auto;
 }
 
-#pic1 {
-
-}
-
-#pic2 {
-    margin: auto;
-}
-
-#pic3 {
-    margin-left: 50% ;
-}
 
 p {
     text-align: center;
@@ -44,4 +33,7 @@ p {
     margin-bottom: 2%;
     display: inline-block;
     width: 50%;
+}
+body {
+    background-color:rgb(255, 255, 255) ;
 }
